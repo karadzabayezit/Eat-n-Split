@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/karadzabayezit/Eat-n-Split/static/css/main.2bc57029.css",
+    "main.js": "/karadzabayezit/Eat-n-Split/static/js/main.9aae2a97.js",
+    "index.html": "/karadzabayezit/Eat-n-Split/index.html",
+    "main.2bc57029.css.map": "/karadzabayezit/Eat-n-Split/static/css/main.2bc57029.css.map",
+    "main.9aae2a97.js.map": "/karadzabayezit/Eat-n-Split/static/js/main.9aae2a97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc57029.css",
+    "static/js/main.9aae2a97.js"
+  ]
+}
