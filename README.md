@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Split the bill and find out who owes whom how much
+
+// For study
+
+https://karadzabayezit.github.io/Eat-n-Split/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
